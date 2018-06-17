@@ -16,5 +16,5 @@
 # My testing area for images
 images/*
 
-# Output
-out.json
+# Temporary json store
+images.json
